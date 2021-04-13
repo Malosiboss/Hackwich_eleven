@@ -15,6 +15,7 @@
 		4FA7070926262ACC008D314C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4FA7070726262ACC008D314C /* LaunchScreen.storyboard */; };
 		4FA7071426262ACD008D314C /* Hackwich_elevenTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FA7071326262ACD008D314C /* Hackwich_elevenTests.swift */; };
 		4FA7071F26262ACD008D314C /* Hackwich_elevenUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FA7071E26262ACD008D314C /* Hackwich_elevenUITests.swift */; };
+		4FA70730262635D7008D314C /* Resturant.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FA7072F262635D7008D314C /* Resturant.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		4FA7071A26262ACD008D314C /* Hackwich_elevenUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Hackwich_elevenUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4FA7071E26262ACD008D314C /* Hackwich_elevenUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hackwich_elevenUITests.swift; sourceTree = "<group>"; };
 		4FA7072026262ACD008D314C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4FA7072F262635D7008D314C /* Resturant.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Resturant.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				4FA706FC26262ACB008D314C /* AppDelegate.swift */,
 				4FA706FE26262ACB008D314C /* SceneDelegate.swift */,
 				4FA7070026262ACB008D314C /* ViewController.swift */,
+				4FA7072F262635D7008D314C /* Resturant.swift */,
 				4FA7070226262ACB008D314C /* Main.storyboard */,
 				4FA7070526262ACC008D314C /* Assets.xcassets */,
 				4FA7070726262ACC008D314C /* LaunchScreen.storyboard */,
@@ -260,6 +263,7 @@
 			files = (
 				4FA7070126262ACB008D314C /* ViewController.swift in Sources */,
 				4FA706FD26262ACB008D314C /* AppDelegate.swift in Sources */,
+				4FA70730262635D7008D314C /* Resturant.swift in Sources */,
 				4FA706FF26262ACB008D314C /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
